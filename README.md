@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
+Bu repo Kodluyoruz Marmara Üniversitesi Yazılıma Başlangıç Patikası Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ## Installation![github](https://user-images.githubusercontent.com/117585631/200181120-46e0a0a6-5b91-412f-8b1d-ec8b8ff597af.png)
 
